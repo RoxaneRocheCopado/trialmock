@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#A40068</headerColor>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>AESIO</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>AESIO</label>
+    <navType>Standard</navType>
+    <tabs>copado__Deployment_Flow__c</tabs>
+    <tabs>copado__Pipeline_Manager</tabs>
+    <tabs>copado__User_Story__c</tabs>
+    <tabs>copadoQuality__Functional_Review__c</tabs>
+    <tabs>copadovsm__Value_Stream_Map__c</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>AESIO_UtilityBar</utilityBar>
+</CustomApplication>
