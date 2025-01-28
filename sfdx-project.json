@@ -18,6 +18,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "62.0",
   "packageAliases": {
-    "Testpackage": "0HoWx00000001iTKAQ"
+    "Testpackage": "0HoWx00000001iTKAQ",
+    "Testpackage@1.0.0-0-mockdev": "04tWx0000001d49IAA"
   }
 }
